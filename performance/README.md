@@ -7,7 +7,7 @@
 ## Low airspeed
 
 - Approach 160 km/h (100 m/h) on final. Same speed for go around with 2-3 second spool-up to full throttle.
-- 1 G stall 115km/h (71 m/h)
+- 1 G power-off stall 115km/h (71 m/h)
 - Minimum good control in all altitudes 130 km/h (80 m/h): good 3-axis control during advanced aerobatics.
 
 ## Aerobatic Reference speed
